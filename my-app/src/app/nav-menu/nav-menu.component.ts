@@ -10,9 +10,9 @@ export class NavMenuComponent implements OnInit {
    myList =
    [
     { id: 1, txt: 'Home' },
-    { id: 2, txt: 'News' },
-    { id: 3,  txt: 'Forums' },
-    { id: 4, txt: 'Contact Us' }
+    { id: 2, txt: 'Team Of Week' },
+    { id: 3,  txt: 'Players' },
+    { id: 4, txt: 'Statistics' }
    ];
 
   constructor() { }

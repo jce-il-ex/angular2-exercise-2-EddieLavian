@@ -14,9 +14,5 @@ export class NavItemComponent implements OnInit {
   ngOnInit() {
   }
 
-  clickFunc() {
-    console.log('hello' + this.item.id);
-    menu.customHtml = 'hello';
-  }
 
 }
